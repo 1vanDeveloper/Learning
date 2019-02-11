@@ -19,7 +19,7 @@ Certificates
     </td>
   </tr>
   <tr>
-    <td>June 29, 2018</td>
+    <td>July 19, 2018</td>
     <td>Microsoft Certified Solution Associate:<br/>Universal Windows Platform</td>
     <td>
         <img alt="MCSA"     
