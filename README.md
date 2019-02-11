@@ -19,7 +19,7 @@ Certificates
     </td>
   </tr>
   <tr>
-    <td>July 19, 2018</td>
+    <td>June 29, 2018</td>
     <td>Microsoft Certified Solution Associate:<br/>Universal Windows Platform</td>
     <td>
         <img alt="MCSA"     
@@ -59,7 +59,7 @@ Exams
     </td>
   </tr>
   <tr>
-    <td>July 19, 2018</td>
+    <td>June 29, 2018</td>
     <td>70-535: Architecting Microsoft Azure Solutions</td>
   </tr>
   <tr>
