@@ -67,3 +67,23 @@ Exams
     <td>70-483: Programming in C#</td>
   </tr>
 </table>
+
+Udemy certificates
+---
+<table>
+  <tr>
+    <th width="150">Date</th>
+    <th width="400">Name</th>
+    <th width="350">Preview</th>
+  </tr>
+  <tr>
+    <td>August 23, 2019</td>
+    <td>Microsoft AZ-300: Azure Architect Technologies</td>
+    <td >
+        <img alt="AZ-300" src="https://raw.github.com/1vanDeveloper/Learning/master/img/UC-I7UQBC05.jpg" 
+        width="316" 
+        height="223"
+        align="middle">
+    </td>
+  </tr>
+</table>
