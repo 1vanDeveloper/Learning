@@ -1,6 +1,6 @@
 # Learning
 
-## Certificates
+## Microsoft Certificates
 
 <table>
   <tr>
@@ -42,7 +42,7 @@
   </tr>
 </table>
 
-## Exams
+## Microsoft Exams
 
 <table>
   <tr>
@@ -71,7 +71,7 @@
   </tr>
 </table>
 
-## Stepik certificates
+## Stepik Certificates
 
 <table>
   <tr>
@@ -103,7 +103,28 @@
   </tr>
 </table>
 
-## Udemy certificates
+## HackerRank Certificates
+
+<table>
+  <tr>
+    <th width="150">Date</th>
+    <th width="400">Name</th>
+    <th width="350">Preview</th>
+  </tr>
+  <tr>
+    <td>May 17, 2020</td>
+    <td>Problem Solving (Basic)</td>
+    <td >
+        <img alt="Problem Solving (Basic)"
+             src="https://raw.github.com/1vanDeveloper/Learning/master/img/HR-1c416e064f5d.png"
+             width="316"
+             height="223"
+             align="middle"/>
+    </td>
+  </tr>
+</table>
+
+## Udemy Certificates
 
 <table>
   <tr>
