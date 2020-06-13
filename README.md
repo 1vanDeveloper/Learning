@@ -1,7 +1,9 @@
 # Learning
 
-Certificates
+## Certificates
+
 ---
+
 <table>
   <tr>
     <th width="150">Date</th>
@@ -11,37 +13,41 @@ Certificates
   <tr>
     <td>July 19, 2018</td>
     <td>Microsoft Certified Solution Developer:<br/>App Builder</td>
-    <td>    
-        <img alt="MCSD"                 src="https://raw.github.com/1vanDeveloper/Learning/master/img/Shpyakin_MCSD.png" 
-        width="316" 
-        height="223" 
-        align="middle">        
+    <td>
+        <img alt="MCSD"
+             src="https://raw.github.com/1vanDeveloper/Learning/master/img/Shpyakin_MCSD.png"
+             width="316"
+             height="223"
+             align="middle"/>
     </td>
   </tr>
   <tr>
     <td>July 19, 2018</td>
     <td>Microsoft Certified Solution Associate:<br/>Universal Windows Platform</td>
     <td>
-        <img alt="MCSA"     
-        src="https://raw.github.com/1vanDeveloper/Learning/master/img/Shpyakin_MCSA.png" width="316" 
-        height="223" 
-        align="middle">
+        <img alt="MCSA"
+             src="https://raw.github.com/1vanDeveloper/Learning/master/img/Shpyakin_MCSA.png"
+             width="316"
+             height="223"
+             align="middle"/>
     </td>
   </tr>
   <tr>
     <td>June 8, 2018</td>
     <td>Microsoft Certified Professional</td>
     <td>
-        <img alt="MCP"  
-        src="https://raw.github.com/1vanDeveloper/Learning/master/img/Shpyakin_MCP.png" width="316" 
-        height="223" 
-        align="middle">
+        <img alt="MCP"
+             src="https://raw.github.com/1vanDeveloper/Learning/master/img/Shpyakin_MCP.png" width="316"
+             height="223"
+             align="middle"/>
     </td>
   </tr>
 </table>
 
-Exams
+## Exams
+
 ---
+
 <table>
   <tr>
     <th width="150">Date</th>
@@ -52,10 +58,11 @@ Exams
     <td>July 19, 2018</td>
     <td>70-357: Developing Mobile Apps</td>
     <td rowspan="3">
-        <img alt="MCSD" src="https://raw.github.com/1vanDeveloper/Learning/master/img/Shpyakin_Microsoft_Certification_Official_Transcript.png" 
-        width="316" 
-        height="446"
-        align="middle">
+        <img alt="MCSD"
+             src="https://raw.github.com/1vanDeveloper/Learning/master/img/Shpyakin_Microsoft_Certification_Official_Transcript.png"
+             width="316"
+             height="446"
+             align="middle"/>
     </td>
   </tr>
   <tr>
@@ -68,8 +75,10 @@ Exams
   </tr>
 </table>
 
-Udemy certificates
+## Udemy certificates
+
 ---
+
 <table>
   <tr>
     <th width="150">Date</th>
@@ -80,10 +89,22 @@ Udemy certificates
     <td>August 23, 2019</td>
     <td>Microsoft AZ-300: Azure Architect Technologies</td>
     <td >
-        <img alt="AZ-300" src="https://raw.github.com/1vanDeveloper/Learning/master/img/UC-I7UQBC05.jpg" 
-        width="316" 
-        height="223"
-        align="middle">
+        <img alt="AZ-300"
+             src="https://raw.github.com/1vanDeveloper/Learning/master/img/UC-I7UQBC05.jpg"
+             width="316"
+             height="223"
+             align="middle"/>
+    </td>
+  </tr>
+  <tr>
+    <td>June 10, 2020</td>
+    <td>Angular 9. Theory and practice</td>
+    <td >
+        <img alt="Angular 9"
+             src="https://raw.github.com/1vanDeveloper/Learning/master/img/UC-742acda9-c657-41a9-9739-60f75f3a0c20.jpg"
+             width="316"
+             height="223"
+             align="middle"/>
     </td>
   </tr>
 </table>
