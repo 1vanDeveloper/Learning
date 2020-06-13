@@ -2,8 +2,6 @@
 
 ## Certificates
 
----
-
 <table>
   <tr>
     <th width="150">Date</th>
@@ -46,8 +44,6 @@
 
 ## Exams
 
----
-
 <table>
   <tr>
     <th width="150">Date</th>
@@ -75,9 +71,39 @@
   </tr>
 </table>
 
-## Udemy certificates
+## Stepik certificates
 
----
+<table>
+  <tr>
+    <th width="150">Date</th>
+    <th width="400">Name</th>
+    <th width="350">Preview</th>
+  </tr>
+  <tr>
+    <td>March 04, 2020</td>
+    <td>Algorithms: Theory and Practice. Methods</td>
+    <td >
+        <img alt="Algorithms: Theory and Practice. Methods"
+             src="https://raw.github.com/1vanDeveloper/Learning/master/img/Stepik-292708.png"
+             width="316"
+             height="223"
+             align="middle"/>
+    </td>
+  </tr>
+  <tr>
+    <td>March 14, 2020</td>
+    <td>Algorithms: Theory and Practice. Data Structures</td>
+    <td >
+        <img alt="Algorithms: Theory and Practice. Data Structures"
+             src="https://raw.github.com/1vanDeveloper/Learning/master/img/Stepik-296149.png"
+             width="316"
+             height="223"
+             align="middle"/>
+    </td>
+  </tr>
+</table>
+
+## Udemy certificates
 
 <table>
   <tr>
@@ -98,7 +124,7 @@
   </tr>
   <tr>
     <td>June 10, 2020</td>
-    <td>Angular 9. Theory and practice</td>
+    <td>Angular 9. Theory and Practice</td>
     <td >
         <img alt="Angular 9"
              src="https://raw.github.com/1vanDeveloper/Learning/master/img/UC-742acda9-c657-41a9-9739-60f75f3a0c20.jpg"
